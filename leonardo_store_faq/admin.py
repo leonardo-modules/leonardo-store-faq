@@ -21,9 +21,3 @@ class QuestionAdmin(admin.ModelAdmin):
 
 
 admin.site.register(Question, QuestionAdmin)
-
-"""class ProductQuestionAdmin(admin.TabularInline):
-    model = ProductAttribute
-    extra = 2
-
-"""
