@@ -28,7 +28,7 @@ msgstr "otázka"
 
 #: models.py:17
 msgid "questions"
-msgstr "otázka"
+msgstr "otázky"
 
 #: models.py:30
 msgid "Product question"
@@ -36,4 +36,4 @@ msgstr "Produktová otázka"
 
 #: models.py:31
 msgid "Product questions"
-msgstr "Produktová otázka"
+msgstr "Produktové otázky"
