@@ -17,7 +17,7 @@ class QuestionAdminForm(forms.ModelForm):
 class QuestionAdmin(admin.ModelAdmin):
     form = QuestionAdminForm
 
-    list_display = ('question_text', )
+    list_display = ('name', )
 
 
 admin.site.register(Question, QuestionAdmin)
