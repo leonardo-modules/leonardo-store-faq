@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-19 12:12+0200\n"
+"POT-Creation-Date: 2016-09-19 16:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,11 +23,11 @@ msgid "Store FAQ"
 msgstr "Obchodní FAQ"
 
 #: models.py:8
+msgctxt "Inanimate object"
 msgid "Name"
 msgstr "Název"
 
 #: models.py:9
-#| msgid "question"
 msgid "Question text"
 msgstr "Text otázky"
 
@@ -44,17 +44,15 @@ msgid "questions"
 msgstr "otázky"
 
 #: models.py:23
-#| msgid "question"
 msgid "Question"
 msgstr "Otázka"
 
 #: models.py:25
-#, fuzzy
-#| msgid "Product question"
 msgid "Product"
-msgstr "Produktová otázka"
+msgstr "Produkt"
 
 #: models.py:26
+msgctxt "As in ordering"
 msgid "Order"
 msgstr "Pořadí"
 
